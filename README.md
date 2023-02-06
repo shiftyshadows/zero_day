@@ -1,5 +1,1 @@
-# zero_day
-# zero_day
-# zero_day
-# zero_day
-# zero_day
+Readme md file to the zero day repository
